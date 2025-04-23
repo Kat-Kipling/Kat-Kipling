@@ -5,7 +5,7 @@ Interested in software engineering since I was 7 and wondering how games actuall
 
 <h2 align="left">Reach me</h2>
 <p>Email: kat.kipling@proton.me</p>
-<p>LinkedIn: https://www.linkedin.com/in/kat-kipling/</p>
+<p>LinkedIn: https://www.linkedin.com/in/katkipling/</p>
 
 <h2 align="left">Languages and Tools</h2>
 <h4>Backend</h4>
